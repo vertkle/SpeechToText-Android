@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SpeechToText</string>
+    <string name="speech_ok">hablando</string>
+</resources>
